@@ -77,3 +77,7 @@ function printMessage() {
 }
 
 printMessage();
+
+function letterFirstName(name) {
+  
+}
