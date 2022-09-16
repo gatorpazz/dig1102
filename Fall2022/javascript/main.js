@@ -76,3 +76,8 @@ console.log("Your average test score is " + (test1 + test2 + test3) / 3)
 const name = "Michael Pascuzzi";
 
 name = "John Doe";
+
+// var (don't use this) Pre ES6/ES2015
+var pet = "Perseus";
+
+alert("My name is Michael Pascuzzi")
